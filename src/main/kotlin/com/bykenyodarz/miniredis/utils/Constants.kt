@@ -1,4 +1,4 @@
-package com.bykenyodarz.miniredis.common
+package com.bykenyodarz.miniredis.utils
 
 class Constants {
     companion object {

@@ -1,4 +1,4 @@
-package com.bykenyodarz.miniredis.common
+package com.bykenyodarz.miniredis.utils
 
 import kotlinx.coroutines.DelicateCoroutinesApi
 import kotlinx.coroutines.GlobalScope
