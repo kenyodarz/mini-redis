@@ -1,0 +1,12 @@
+
+W
+java:S1141&"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÓÚ™½‡0
+ƒ
+java:S1598"ìThis file "ServerApp.java" should be located in "com\bykenyodarz\miniredis\example" directory, not in "C:\Users\jomina\Documents\Ejemplos\mini-redis\src\main\kotlin\com.bykenyodarz.miniredis\example"(Do not use dots in directory names).(íÎ¦À
+D
+java:S2189$""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8ÒÜ™½‡0
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78ó±¢½‡0
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(§’çÎúÿÿÿÿ8åÝ™½‡0
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8íÝ™½‡0
