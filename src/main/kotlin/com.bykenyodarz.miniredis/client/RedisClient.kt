@@ -58,7 +58,7 @@ class RedisClient {
     private fun sendToServer(channel: SocketChannel) {
         val scanner = Scanner(System.`in`)
         val str = scanner.nextLine()
-        val byteBuffer = ResponseEncoder.encode(listOf(str))
+        val byteBuffer = ResponseEncoder.encode(str)
         while (byteBuffer.hasRemaining()) {
             channel.write(byteBuffer)
         }
